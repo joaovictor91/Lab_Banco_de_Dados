@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6275bbe8725978585180285a"
+  },
+  "nome": "PHP",
+  "classificacao": "“informatica”,",
+  "editora": {
+    "nome": "JJ Ltda",
+    "fone": "3221-2244",
+    "email": "jj@gmail.com"
+  },
+  "autores": [
+    "João",
+    "Pedro"
+  ]
+},{
+  "_id": {
+    "$oid": "6275c027725978585180285b"
+  },
+  "nome": "Banco de Dados",
+  "classificacao": "informatica",
+  "editora": {
+    "nome": "Nova SA",
+    "fone": "3222-8874",
+    "email": "nova@gmail.com"
+  },
+  "autores": [
+    "João",
+    "Maria",
+    "Pedro"
+  ]
+},{
+  "_id": {
+    "$oid": "6275c479725978585180285c"
+  },
+  "nome": "Pequeno Principe",
+  "classificacao": "Infantil",
+  "editora": {
+    "nome": "Moderna",
+    "fone": "3222-8874",
+    "email": "moderna@gmail.com"
+  },
+  "autores": [
+    "Juventino",
+    "Adagoberto",
+    "Joaquim com k"
+  ]
+}]

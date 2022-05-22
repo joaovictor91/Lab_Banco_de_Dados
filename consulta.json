@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "628660e9175a6cc8b9d957de"
+  },
+  "data": {
+    "$date": {
+      "$numberLong": "1652925600000"
+    }
+  },
+  "medico": {
+    "crm": "1515",
+    "nome": "José",
+    "especialista": "Neurologista",
+    "telefone": [
+      "3221-5544"
+    ]
+  },
+  "paciente": {
+    "cpf": {
+      "$numberLong": "44885965288"
+    },
+    "nome": "João",
+    "telefone": [
+      "3221-4455"
+    ]
+  },
+  "remedios": [
+    {
+      "nome": "Dorflex",
+      "laboratorio": "Neo Quimica",
+      "uso": "Cada 8 horas"
+    },
+    {
+      "nome": "Dipirona",
+      "laboratorio": "X",
+      "uso": "Cada 12 horas"
+    }
+  ]
+}]

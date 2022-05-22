@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "627efcbc6e7216425c042b9c"
+  },
+  "data": {
+    "$date": "2022-05-13T03:00:00Z"
+  },
+  "produtos": [
+    {
+      "nome": "a",
+      "preco": 1,
+      "quantidade": 1
+    },
+    {
+      "nome": "b",
+      "preco": 2,
+      "quantidade": 2
+    }
+  ],
+  "fornecedor": {
+    "nome": "x",
+    "nome_fantasia": "xy",
+    "telefones": {
+      "nome": "a",
+      "fone": "3218-5484"
+    }
+  }
+}]
